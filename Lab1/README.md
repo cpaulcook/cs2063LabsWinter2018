@@ -81,7 +81,11 @@ To access these emulators, locate the Run menu along the File menu bar along the
 
 Note that font sizes should always be specified in 'sp', a scale-independent pixel. This is a convenient way to size fonts in Android that will ensure it stays looking good on a variety of device screens. For other objects you will want 'px' or density-independent pixels 'dp'. For more information read the [Dimension descriptions in the Android API Guide](http://developer.android.com/guide/topics/resources/more-resources.html#Dimension)
 
-Finally, we won't be needing the floating mail icon so go ahead and select it and delete it from the view. You can't delete it from the content_main.xml file however, you'll have to navigate to /layout/activity_main.xml and remove it there. That is because it's considered a global layout element for this activity. 
+**Deliverable 1**
+Take a screenshot of your app running (on any device or emulator).
+
+
+We won't be needing the floating mail icon so go ahead and select it and delete it from the view. You can't delete it from the content_main.xml file however, you'll have to navigate to /layout/activity_main.xml and remove it there. That is because it's considered a global layout element for this activity. 
 
 If you access the Text tab at the bottom-left of the layout editor you can locate an XML line in activity_main that states ```<include layout=@layout/content_main"/>```. This tells the build process to factor in the content_main.xml layout contents into main's own.
 
@@ -89,8 +93,6 @@ Also note in the activity_main.xml Text tab that the entire layout you see in th
 
 Run the application by emulator once again and you’ll see the changes you’ve made reflected. 
 
-**Deliverable 1**
-Take a screenshot of your app running (on any device or emulator).
 
 ###### 7. Project Structure
 We will now take a look at what every Android Studio project structure has in common to develop an understanding of how this folder structure is navigated and how each piece ties together.
