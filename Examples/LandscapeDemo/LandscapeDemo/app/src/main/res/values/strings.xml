@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LandscapeDemo</string>
+    <string name="hello">Hello!</string>
+    <string name="text">TextView 1</string>
+    <string name="pressme">Press me</string>
+</resources>
