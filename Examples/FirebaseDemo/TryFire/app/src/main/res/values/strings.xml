@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TryFire</string>
+    <string name="enter">Enter a message...</string>
+    <string name="send">Send</string>
+    <string name="current">Current message:</string>
+
+
+</resources>

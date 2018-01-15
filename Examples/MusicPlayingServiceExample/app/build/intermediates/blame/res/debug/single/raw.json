@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/build/intermediates/res/merged/debug/raw/badnews.m4a",
+        "source": "/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/src/main/res/raw/badnews.m4a"
+    },
+    {
+        "merged": "/Users/ccook1/AndroidStudio/MusicPlayingServiceExample/app/build/intermediates/res/merged/debug/raw/badnews.m4a",
+        "source": "/Users/ccook1/AndroidStudio/MusicPlayingServiceExample/app/src/main/res/raw/badnews.m4a"
+    }
+]

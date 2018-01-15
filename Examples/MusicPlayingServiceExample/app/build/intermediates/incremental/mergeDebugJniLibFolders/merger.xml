@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProximitySensorDemo</string>
+    <string name="display">Proximity sensor reading: %1$.0f</string>
+</resources>

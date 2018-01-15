@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ccook1/AndroidStudio/MusicPlayingServiceExample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/ccook1/AndroidStudio/MusicPlayingServiceExample/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/ccook1/cs2063LabsWinter2018/Examples/MusicPlayingServiceExample/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
