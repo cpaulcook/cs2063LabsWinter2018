@@ -1,10 +1,11 @@
-# Lab 6 - AsyncTask
+# Lab 5 - AsyncTask
 
 In lecture we've seen the importance of moving long-running operations
 off of the UI thread and into a worker thread. In this lab you will
 implement (portions of) this functionality using an ```AsyncTask```.
 
-Start by downloading the Lab 6 skeleton code.
+Start by downloading the Lab 5 skeleton code. (It's called
+Lab6AsyncTaskSkeleton, but it's what we're doing for Lab 5 this year.)
 
 This app uses the master/detail flow (MDF) pattern, which we briefly
 saw in lecture 2. This app is similar in structure to an app created
