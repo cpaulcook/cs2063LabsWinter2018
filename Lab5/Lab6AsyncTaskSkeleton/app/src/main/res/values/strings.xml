@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab 5 AsyncTask</string>
+    <string name="title_course_detail">USGS Earthquake Detail</string>
+</resources>
