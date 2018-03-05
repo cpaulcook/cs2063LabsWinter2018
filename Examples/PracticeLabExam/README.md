@@ -1,4 +1,7 @@
-# Lab Exam
+# Practice Lab Exam
+
+This is the lab exam from Winter 2016. One relevant note: this was
+intended for a 1.5 hour lab, whereas the lab this year is 3 hours.
 
 This lab exam is open everything (Android documentation, labs and
 examples, stackoverflow, Google, etc.). **You must not communicate with
@@ -17,19 +20,15 @@ shows definitions for the word that was clicked. Pressing back from
 the detail activity takes the user back to the main activity. See
 examples of both activities below.
 
-###Main activity:
+### Main activity:
 
 ![Main Activity](https://i.imgur.com/MVNM1ma.png)
 
-<!-- https://imgur.com/MVNM1ma -->
-<!-- https://i.imgur.com/MVNM1ma.png -->
 
-###Detail activity:
+### Detail activity:
 
 ![Detail Activity](https://i.imgur.com/TeCi3sJ.png)
 
-<!-- https://imgur.com/TeCi3sJ -->
-<!-- https://i.imgur.com/TeCi3sJ.png -->
 
 ## Skeleton Code
 
