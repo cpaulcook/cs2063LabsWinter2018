@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabExam</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="viewmap">View on map</string>
+    <string name="viewwiki">View Wikipedia entry</string>
+</resources>
