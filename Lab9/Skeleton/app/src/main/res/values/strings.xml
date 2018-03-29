@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorsLab</string>
+    <string name="accelerometer_error">No accelerometer</string>
+    <string name="start_message">Tap To Create Ball</string>
+    <string name="no_filter_message">No filter - Long press to change filter</string>
+    <string name="lowpass_filter_message">Low-pass filter - Long press to change filter</string>
+    <string name="highpass_filter_message">High-pass filter - Long press to change filter</string>
+</resources>
